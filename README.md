@@ -1,4 +1,4 @@
-### contenido
+### Contenido del proyecto de inf-273
 - [ ] que es un proxy  
 - [ ] grafico(s)  
 - [ ] usos del proxy  
