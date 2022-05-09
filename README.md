@@ -7,4 +7,7 @@
      1. node  
      1. modulo express  
      1. modulo require  
-- [x] codigo
+- [x] codigo proxy
+- [ ] servicio ip
+- [ ] maquillar el index
+- [ ] Informe
