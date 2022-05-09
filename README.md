@@ -8,6 +8,6 @@
      1. modulo express  
      1. modulo require  
 - [x] codigo proxy
-- [ ] servicio ip
+- [x] servicio ip
 - [ ] maquillar el index
 - [ ] Informe
