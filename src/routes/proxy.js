@@ -4,7 +4,6 @@ const { userViewForm, getMyIp } = require('../controllers/viewController');
 const router = Router();
 
 router.get('/proxy', getProxy);
-router.get('/my-ip', getMyIp);
 router.get('/', userViewForm);
 
 
